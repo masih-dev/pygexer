@@ -45,12 +45,3 @@ Now open the pygexer-mobile.py file and run it with pydroid3.
 
 
 ![phone1](pic/phone-version/phone1.jpg)
-
-# Thanks
-
-Finally, I would like to thank my good friends Sina and GC and Irakli Googoochani for helping me build this project.
-
-
-# Support
-You can send me your comments and criticisms.
-- gmail : masihgh8@gmail.com
